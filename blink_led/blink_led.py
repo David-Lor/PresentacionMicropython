@@ -12,4 +12,3 @@ def blink():
 			sleep(1)
 		except KeyboardInterrupt:
 			break
-
